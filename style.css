@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px 40px;
+    background: #f4f4f4;
+}
+
+h1, h2, h3, h4 {
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.lead {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+nav {
+    background: #fff;
+    padding: 10px 15px;
+    border-left: 4px solid #0077cc;
+    margin-bottom: 30px;
+}
+
+nav ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+section {
+    background: #fff;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+code {
+    background: #eee;
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-family: "Consolas", monospace;
+}
+
+.quote {
+    border-left: 4px solid #ff9900;
+    padding-left: 10px;
+    font-style: italic;
+    background: #fffaf0;
+}
+
+.inline-image {
+    max-width: 100%;
+    display: block;
+    margin: 10px auto 20px;
+}
+
+.image-figure {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.image-figure img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.image-figure figcaption {
+    font-size: 14px;
+    color: #555;
+    margin-top: 8px;
+    font-style: italic;
+}
+
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+    color: #666;
+}
